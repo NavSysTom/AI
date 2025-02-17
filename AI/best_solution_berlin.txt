@@ -1,0 +1,7 @@
+Overall Best Fitness: 7928.98
+Best Solution Found: 7928.98 in 4.82 sec
+Overall Best Optimal Path: [0, 43, 15, 28, 49, 19, 22, 29, 1, 6, 41, 20, 16, 2, 17, 30, 21, 31, 48, 35, 34, 33, 45, 36, 39, 37, 47, 23, 4, 14, 5, 3, 24, 11, 27, 26, 25, 46, 12, 13, 51, 10, 50, 32, 42, 9, 8, 7, 40, 18, 44, 38, 0]
+Overall Best Parameters: Population Size = 350, Generations = 3000, Crossover Rate = 1.0, Mutation Rate = 0.05, Elite Size = 0.1, Tournament Size = 6
+Crossover Operator: pmx crossover
+Mutation Operator: displacement mutation
+
